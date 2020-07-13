@@ -1,5 +1,7 @@
 # FeulPHP自動テスト導入
 
+Laradock使用
+
 ## docker起動
 
 ```
