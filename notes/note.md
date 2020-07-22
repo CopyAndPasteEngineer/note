@@ -2,7 +2,7 @@
 
 ## 開発
 
-## ツール
+### ツール
 
 - [Can I Use](https://caniuse.com/)  
 HTML5、CSS3の対応状況を確認できるCan I USE
@@ -11,6 +11,7 @@ HTML5、CSS3の対応状況を確認できるCan I USE
 - [MDN Web Docs](https://developer.mozilla.org/ja/)  
 開発者による開発者のためのリソース。
 
+### Vue
 - [Vue.js](https://cli.vuejs.org/)  
 The Progressive JavaScript Framework 
 
@@ -20,6 +21,12 @@ PHP マニュアル
 
 - [Laravel](http://laravel.jp/)  
 PHP フレームワーク
+
+### Python
+- [Pythonプログラミング入門](https://utokyo-ipp.github.io/toc.html)
+
+### AWS
+- [AWSによるクラウド入門](https://tomomano.gitlab.io/intro-aws/)
 
 ### アプリ開発
 - [iOS,Android両OSのアプリを開発するための手法検討](https://qiita.com/hikarut/items/974e5782a3c0bf26f82a)  
