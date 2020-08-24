@@ -27,6 +27,8 @@ RESTClient
 自動テストSelenium
 - [Octoree](https://addons.mozilla.org/ja/firefox/addon/octotree/)  
 GitHub閲覧アドオン
+- [uBlacklist](https://addons.mozilla.org/ja/firefox/addon/ublacklist/)  
+指定したサイトが Google の検索結果で表示されないようにします
 
 ## Google Chrome
 - [Google Chrome](https://www.google.com/intl/ja_jp/chrome/)
@@ -37,3 +39,5 @@ GitHub閲覧アドオン
 ### アドオン
 - [Octoree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ja)  
 GitHub閲覧アドオン
+- [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja)   
+指定したサイトが Google の検索結果で表示されないようにします
